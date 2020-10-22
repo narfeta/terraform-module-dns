@@ -1,2 +1,2 @@
-variable "region"       { }
-variable "hosted_zone"  { default = "null" }
+variable "region"       { default = "us-east-1"}
+variable "hosted_zone"  { }
