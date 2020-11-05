@@ -20,3 +20,6 @@ hosted_zone | no | - | myhostedzone.com | The domain for the hosted zone
 Variables | Example | Description
 ---|---|---|
 hosted_zone_id | XXXXXXX | The hostedzone id created
+
+## Dependencies
+None
