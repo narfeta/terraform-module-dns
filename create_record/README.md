@@ -24,6 +24,6 @@ None
 
 ## Dependencies
 
-Variables  | Module | Description
+Variables  | Module | function
 ---|---|---|
-hosted_zone_id | terraform-module-dns | path create_hostedzone
+hosted_zone_id | terraform-module-dns | create_hostedzone
