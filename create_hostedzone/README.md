@@ -1,4 +1,4 @@
-terraform-module-domains
+terraform-module-dns
 ====
 
 # Module that creates hosted zones in hosted zone
