@@ -1,4 +1,4 @@
-terraform-module-domains
+terraform-module-dns
 ====
 
 # Module that creates records in hostedzone
@@ -26,4 +26,4 @@ None
 
 Variables  | Module | Description
 ---|---|---|
-hosted_zone_id | terraform-module-domains | path create_hostedzone
+hosted_zone_id | terraform-module-dns | path create_hostedzone
