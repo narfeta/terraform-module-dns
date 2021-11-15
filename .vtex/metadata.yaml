@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-module-dns
+  description: 
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/narfeta/terraform-module-dns/blob/main
+spec:
+  type: website
+  lifecycle: experimental
+  owner: feder
+  system: sre-tools
