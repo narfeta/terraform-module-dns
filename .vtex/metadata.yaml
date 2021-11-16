@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-module-dns
+  description: 
+  tags:
+    - bash
+spec:
+  type: bot
+  lifecycle: experimental
+  owner: sre-team
+  system: sre-tools
